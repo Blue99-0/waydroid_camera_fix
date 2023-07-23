@@ -1,6 +1,6 @@
 # waydroid_camera_fix
 
-"Fix" for waydroid camera
+"Fix" for waydroid camera on Roblox
 can be laggy sometimes, do not run under Wayland, use Weston to run Waydroid.
 
 Dependencies: pynput, pyautogui
