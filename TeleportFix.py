@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pyautogui as py
 import mouse
 import time
